@@ -9,6 +9,6 @@ print(6,4,8)
 print(6,"hello", 4)
 print(10<5)
 print(10>5)
-print(10==5)
+print(10==5)# ==gets the remainder
 print(10>=5)
 print(10<=5)
