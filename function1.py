@@ -23,3 +23,9 @@ print(type(weight))
 
 bmi = weight / (height * height)
 print(bmi)
+
+
+
+
+
+
